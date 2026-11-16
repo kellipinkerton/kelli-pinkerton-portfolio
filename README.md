@@ -20,7 +20,7 @@
 
 <h2 align="center">👋 Professional Summary</h2>
 
-> Cybersecurity and Networking Student, who has hands-on experience working with network configuration, Windows Server, Active Directory, Linux, AWS, and Data projects. Extensive customer service background and organizational skills with the ability to learn new material quickly and perform independently. Seeking to apply my technical knowledge and experience to entry-level positions in Information Technology Support, Networking, and Cybersecurity. Working towards CompTIA Security+ certification.
+**Cybersecurity and Networking Student, who has hands-on experience working with network configuration, Windows Server, Active Directory, Linux, AWS, and Data projects. Extensive customer service background and organizational skills with the ability to learn new material quickly and perform independently. Seeking to apply my technical knowledge and experience to entry-level positions in Information Technology Support, Networking, and Cybersecurity. Working towards CompTIA Security+ certification.**
 
 ---
 
@@ -55,17 +55,17 @@ Python · PowerShell · Bash · Faker · pandas · JSON · CSV · Docker/Batect 
 
 ### 🌐 Networking and Security
 
-- Configured simulated networks in Cisco Packet Tracer using routers, switches, IP addressing, subnetting, VLANs, and DHCP; troubleshot configuration issues.
-- Used Wireshark and Nmap to analyze traffic and identify devices, ports, and services.
+- Network simulation was done using Cisco Packet Tracer by creating various routers, switches, IP addresses, subnets, VLANs, and DHCP configurations.
+- Used Wireshark and Nmap to capture traffic and detect devices, ports, and services.
 
 ### 🖥️ Windows Server and Linux
 
-- Completed Windows Server and Active Directory labs covering user management and network services in virtual environments.
-- Used Linux command-line tools and practiced Bash, PowerShell, and Python scripting for technical exercises and troubleshooting.
+- Completed Windows Server and Active Directory labs for user management and network services on virtual platforms.
+- Used various command line utilities on Linux to practice my Bash, PowerShell, and Python scripting skills.
 
 ### ☁️ Cybersecurity and AWS
 
-- Completed OverTheWire Bandit CTF challenges using PuTTY, command-line navigation, research, and troubleshooting.
+- Successfully completed OverTheWire Bandit CTF exercises using PuTTY and command line navigation.
 - Completed AWS Academy labs using EC2, VPC, EBS snapshots, RDS, Auto Scaling, Elastic Load Balancing, and CloudWatch.
 
 ---
@@ -78,7 +78,7 @@ Python · PowerShell · Bash · Faker · pandas · JSON · CSV · Docker/Batect 
 
 - Completed three guided live projects on self-service data platform, source data products, and publishing derived data products.
 - Worked with Python, Faker, pandas, JSON, CSV, Docker/Batect, and GitHub for creating, organizing, and handling data.
-- Created datasets consisting of 1,000 subscription files, 1,000 movie files, and 1,000 watch event files.
+- Created datasets made up of 1,000 subscription records, 1,000 movies and 1,000 watch events records.
 - Registered source data products and published movie recommendation data product which had created 38 recommendations through testing.
 
 ---
@@ -88,15 +88,15 @@ Python · PowerShell · Bash · Faker · pandas · JSON · CSV · Docker/Batect 
 ### 📬 United States Postal Service
 **Rural Carrier** · November 2016 – October 2023
 
-- Independently managed daily routes, schedules, and changing logistical challenges in a time-sensitive environment.
-- Maintained accuracy and organization while providing reliable customer service.
+- Managed all logistical issues, schedules, and routes independently in a fast-paced work setting.
+- Ensured that everything is accurate and organized while delivering good customer service.
 
 ### 🚐 Explore USA RV Supercenter
 **Warranty Clerk** · August 2013 – September 2016
 
-- Processed warranty claims and obtained manufacturer authorization for repairs.
-- Uploaded photographs and submitted required documentation through computer-based systems.
-- Maintained accurate records and communicated with customers, coworkers, and manufacturers while following established procedures.
+- Filed warranty claims and sought manufacturer authorization for repairs.
+- Submitted photographs and necessary documentation using computer systems.
+- Kept accurate records and worked with customers, co-workers, and manufacturers according to set procedures.
 
 ---
 
