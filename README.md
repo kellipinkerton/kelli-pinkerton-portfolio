@@ -37,15 +37,15 @@
 
 <h2 align="center">🛠️ Technical Skills</h2>
 
-### Networking and Security
+### 🌐 Networking and Security
 
 Cisco Packet Tracer · Wireshark · Nmap · Cisco routers and switches · VLANs · IPv4 addressing and subnetting · DHCP · DNS · Firewalls · Network troubleshooting · Network cabling
 
-### Systems and Cloud
+### ☁️ Systems and Cloud
 
 Linux · Windows Server · Active Directory · Virtual machines · PC hardware troubleshooting · AWS Management Console · EC2 · VPC · EBS · RDS · CloudWatch · Auto Scaling · Elastic Load Balancing
 
-### Scripting and Data Tools
+### 💻 Scripting and Data Tools
 
 Python · PowerShell · Bash · Faker · pandas · JSON · CSV · Docker/Batect · GitHub
 
@@ -72,7 +72,7 @@ Python · PowerShell · Bash · Faker · pandas · JSON · CSV · Docker/Batect 
 
 <h2 align="center">🚀 Projects</h2>
 
-### Technical Projects
+### 📂 Technical Projects
 
 **Manning Data Mesh LiveProjects | 3 Projects Completed**
 
@@ -85,13 +85,13 @@ Python · PowerShell · Bash · Faker · pandas · JSON · CSV · Docker/Batect 
 
 <h2 align="center">💼 Professional Experience</h2>
 
-### United States Postal Service
+### 📬 United States Postal Service
 **Rural Carrier** · November 2016 – October 2023
 
 - Independently managed daily routes, schedules, and changing logistical challenges in a time-sensitive environment.
 - Maintained accuracy and organization while providing reliable customer service.
 
-### Explore USA RV Supercenter
+### 🚐 Explore USA RV Supercenter
 **Warranty Clerk** · August 2013 – September 2016
 
 - Processed warranty claims and obtained manufacturer authorization for repairs.
