@@ -72,27 +72,14 @@ Python · PowerShell · Bash · Faker · pandas · JSON · CSV · Docker/Batect 
 
 <h2 align="center">🚀 Projects</h2>
 
-### Manning Data Mesh LiveProjects
+### Technical Projects
 
-> **Three completed guided projects** exploring self-serve platforms, source data products, and derived data products.
+**Manning Data Mesh LiveProjects | 3 Projects Completed**
 
-#### 01 · Build a Self-Serve Data Platform
-
-- Completed a guided project focused on building a self-serve data platform within a data mesh.
-
-#### 02 · Push Data Into Data Products
-
-- Completed a guided project focused on pushing data into data products within a data mesh.
-
-#### 03 · Publish Data Products
-
-- Used Python, Faker, pandas, JSON, CSV, Docker/Batect, and GitHub to register source data products and publish a derived action-movie recommendation product.
-- Generated synthetic datasets containing **1,000 subscription records**, **1,000 movie records**, and **1,000 watch-event records**.
-- Produced **38 recommendations** during the test run of the derived recommendation product.
-
-| Subscription Records | Movie Records | Watch-Event Records | Test Recommendations |
-|:--:|:--:|:--:|:--:|
-| **1,000** | **1,000** | **1,000** | **38** |
+- Completed three guided live projects on self-service data platform, source data products, and publishing derived data products.
+- Worked with Python, Faker, pandas, JSON, CSV, Docker/Batect, and GitHub for creating, organizing, and handling data.
+- Created datasets consisting of 1,000 subscription files, 1,000 movie files, and 1,000 watch event files.
+- Registered source data products and published movie recommendation data product which had created 38 recommendations through testing.
 
 ---
 
