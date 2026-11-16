@@ -20,7 +20,7 @@
 
 <h2 align="center">👋 Professional Summary</h2>
 
-> Networking and cybersecurity student seeking entry-level IT support, network support, or junior cybersecurity work. Hands-on experience with network configuration, Windows Server, Active Directory, Linux, AWS, and data projects. Brings customer service, organization, and independent problem-solving experience. Preparing for CompTIA Security+.
+> Cybersecurity and Networking Student, who has hands-on experience working with network configuration, Windows Server, Active Directory, Linux, AWS, and Data projects. Extensive customer service background and organizational skills with the ability to learn new material quickly and perform independently. Seeking to apply my technical knowledge and experience to entry-level positions in Information Technology Support, Networking, and Cybersecurity. Working towards CompTIA Security+ certification.
 
 ---
 
