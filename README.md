@@ -20,7 +20,7 @@
 
 <h2 align="center">👋 Professional Summary</h2>
 
-**Cybersecurity and Networking Student, who has hands-on experience working with network configuration, Windows Server, Active Directory, Linux, AWS, and Data projects. Extensive customer service background and organizational skills with the ability to learn new material quickly and perform independently. Seeking to apply my technical knowledge and experience to entry-level positions in Information Technology Support, Networking, and Cybersecurity. Working towards CompTIA Security+ certification.**
+**Cybersecurity and Networking Student who has hands-on experience working with network configuration, Windows Server, Active Directory, Linux, AWS, and data projects. Extensive customer service background and organizational skills with the ability to learn new material quickly and perform independently. Seeking to apply my technical knowledge and experience to entry-level positions in Information Technology Support, Networking, and Cybersecurity. Working towards CompTIA Security+ certification.**
 
 ---
 
@@ -78,8 +78,8 @@ Python · PowerShell · Bash · Faker · pandas · JSON · CSV · Docker/Batect 
 
 - Completed three guided live projects on self-service data platform, source data products, and publishing derived data products.
 - Worked with Python, Faker, pandas, JSON, CSV, Docker/Batect, and GitHub for creating, organizing, and handling data.
-- Created datasets made up of 1,000 subscription records, 1,000 movies and 1,000 watch events records.
-- Registered source data products and published movie recommendation data product which had created 38 recommendations through testing.
+- Created datasets made up of 1,000 subscription records, 1,000 movies records and 1,000 watch events records.
+- Registered source data products and published movie recommendation data products that created 38 recommendations during testing.
 
 ---
 
@@ -89,7 +89,7 @@ Python · PowerShell · Bash · Faker · pandas · JSON · CSV · Docker/Batect 
 **Rural Carrier** · November 2016 – October 2023
 
 - Managed all logistical issues, schedules, and routes independently in a fast-paced work setting.
-- Ensured that everything is accurate and organized while delivering good customer service.
+- Ensured that everything was accurate and organized while delivering good customer service.
 
 ### 🚐 Explore USA RV Supercenter
 **Warranty Clerk** · August 2013 – September 2016
